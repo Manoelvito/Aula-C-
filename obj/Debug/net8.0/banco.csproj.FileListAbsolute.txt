@@ -1,0 +1,5 @@
+C:\Users\VITORMANOEL\Downloads\banco\obj\Debug\net8.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITORMANOEL\Downloads\banco\obj\Debug\net8.0\banco.AssemblyInfoInputs.cache
+C:\Users\VITORMANOEL\Downloads\banco\obj\Debug\net8.0\banco.AssemblyInfo.cs
+C:\Users\VITORMANOEL\Downloads\banco\obj\Debug\net8.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\VITORMANOEL\Downloads\banco\obj\Debug\net8.0\banco.sourcelink.json
